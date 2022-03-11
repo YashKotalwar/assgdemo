@@ -9,3 +9,6 @@ Just try another push1.
 
 addition method
 x = 2 + 3
+
+Answer to addition
+ x = 5
