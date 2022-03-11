@@ -6,3 +6,6 @@ Change4 in RemoteFile
 Finally pushing changes in RemoteFile
 
 Just try another push1.
+
+addition method
+x = 2 + 3
